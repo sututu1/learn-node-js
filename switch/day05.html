@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>菜鸟教程</title>
+    <style>
+       #header ,
+       #tag {
+            background-color:yellow ;
+            border: 2px solid gray;
+            font-size: 2rem;
+            margin: 2px;
+            display: block;
+        }
+    </style>
+    <script>
+       window.onload = function () {
+            var element = document.getElementById("header");
+            element.innerHTML = "新标题";
+            var p1 = document.getElementById('header').style.color='red';
+            var p2 = document.getElementById('tag').style.fontFamily='Arial';
+            var p3 = document.getElementById('header').style.fontSize='larger';
+
+        }
+    </script>
+</head>
+
+<body>
+    <p id="header">hello world</p>
+  <p id="tag">Hello World</p>
+  <input type="button" value="隐藏文本" onclick="document.getElementById('header').style.visibility='hidden'">
+  <input type="button" value="显示文本" onclick="document.getElementById('header').style.visibility='visible'">
+  <input type="button" value="显示文本" onclick="document.getElementById('tag').style.visibility='visible'">
+  <input type="button" value="隐藏文本" onclick="document.getElementById('tag').style.visibility='hidden'">
+</body>
+
+</html>

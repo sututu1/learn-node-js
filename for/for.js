@@ -11,3 +11,6 @@ for(i = 0;i <= 100;i++){
     }
 }
 console.log("偶数之和为："+sum);
+
+var p = Promise.all([p1,p2,p3]);
+console(p);

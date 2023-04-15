@@ -1,16 +1,12 @@
-## 2023/3/15 todo
-- [x] 5点起床
-- [x] 英语学习 30minutes
-- [x] 阅读5club 30minutes
-- [x] css.!important 还剩29课时 30minutes
-- [x] 健身 （手臂训练，平板支撑3minutes，小腿训练）60minutes
-- [x] 牙线棒清洁/刷牙/蒸鸡蛋 30minutes
-- [x] js教程练习debug/this  30minutes
-- [x] 冥想 20minutes
-- [x] 小贴士练习 30minutes
-- [x] 午餐 30minutes
-- [x] 推特 20minutes
-- [x] 算法导论 30minutes
-- [x] 美剧 30minutes
-- [x] write todo
-
+## 2023/4/15 todo
+- [ ] 5点起床
+- [ ] 英语学习 30minutes
+- [ ] 5club （190-1194） 30mintes
+- [ ] 跑步+健身 60minutes
+- [ ] javascript. js.定时器的应用 三个视频/20minutes 第99/100章（ 总共是140章）https://www.youtube.com/watch?v=1N7Ia2e5RBElist=PLmOn9nNkQxJFubqN777c_nScnJ4dpEYMT 30minutes
+- [ ] 牙线棒清洁/刷牙/蒸鸡蛋 30minutes
+- [ ] js算法.集合练习 第29/31章 https://www.youtube.com/watch?v=kyIlurwP1P8&list=PLwIrqQCQ5pQmjH6YyFvH2A9FYL6bBB4Ra&index=21
+- [ ] 午餐 30minutes
+- [ ] 阅读《从1到无穷大》30minutes
+- [ ] 算法面试 30minutes
+- [ ] write todo
