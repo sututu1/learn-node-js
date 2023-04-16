@@ -1,12 +1,11 @@
-## 2023/4/15 todo
+## 2023/4/17 todo
 - [ ] 5点起床
 - [ ] 英语学习 30minutes
-- [ ] 5club （190-1194） 30mintes
+- [ ] 5club （195-200） 30mintes
 - [ ] 跑步+健身 60minutes
-- [ ] javascript. js.定时器的应用 三个视频/20minutes 第99/100章（ 总共是140章）https://www.youtube.com/watch?v=1N7Ia2e5RBElist=PLmOn9nNkQxJFubqN777c_nScnJ4dpEYMT 30minutes
+- [ ] javascript教程 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
 - [ ] 牙线棒清洁/刷牙/蒸鸡蛋 30minutes
-- [ ] js算法.集合练习 第29/31章 https://www.youtube.com/watch?v=kyIlurwP1P8&list=PLwIrqQCQ5pQmjH6YyFvH2A9FYL6bBB4Ra&index=21
 - [ ] 午餐 30minutes
 - [ ] 阅读《从1到无穷大》30minutes
-- [ ] 算法面试 30minutes
+- [ ] 算法视频 二叉树遍历30minutes
 - [ ] write todo
