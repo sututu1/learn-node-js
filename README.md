@@ -1,11 +1,1 @@
-## 2023/4/17 todo
-- [ ] 5点起床
-- [ ] 英语学习 30minutes
-- [ ] 5club （195-200） 30mintes
-- [ ] 跑步+健身 60minutes
-- [ ] javascript教程 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
-- [ ] 牙线棒清洁/刷牙/蒸鸡蛋 30minutes
-- [ ] 午餐 30minutes
-- [ ] 阅读《从1到无穷大》30minutes
-- [ ] 算法视频 二叉树遍历30minutes
-- [ ] write todo
+## js练习
